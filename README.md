@@ -18,7 +18,7 @@
 
 Netflix landing page clone
 
-- Website: []()
+- Website: [netflix-landing](https://netflix-landing-sable.vercel.app/)
 
 ## 🚀 Tecnologias
 
